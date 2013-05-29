@@ -1,0 +1,25 @@
+Version 1.4
+[X] Choix de la source du sort/item
+[X] Critere de recherche sur la source
+[X] Source sur la carte
+[X] Filtre source dans la configuration
+[X] Appliquer le changement de filtre des sources
+[X] Optimisation et mise en commun du code des viewers des listes
+[ ] Integration de l'APG
+
+Version 1.5
+[ ] Synchro Database en ligne
+[ ] Cartes customs
+
+Version 1.X
+[ ] Nom anglais sur la carte
+[ ] Rafraichir la page editor général sur modif d'un sort
+[ ] Changer les messages systemes vers le francais
+[ ] Ajout de nouvelles classes
+[ ] Ajout de nouvelles ecoles
+[ ] Ajout d'une source
+[ ] Import item types et slots
+
+[ ] Charger le count des items au demarrage
+
+osgi.nl=fr

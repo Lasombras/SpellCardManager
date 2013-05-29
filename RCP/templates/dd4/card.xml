@@ -1,0 +1,238 @@
+<cards>
+	<font name="Microsoft Sans Serif" file="MICROSS.TTF"/>
+
+	<card school="1" pattern="card_1.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_1.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_1.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_1.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_1.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_1.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_1.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="2" pattern="card_2.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_2.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_2.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_2.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_2.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_2.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_2.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="3" pattern="card_3.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_3.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_3.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_3.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_3.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_3.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_3.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="4" pattern="card_4.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_4.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_4.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_4.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_4.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_4.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_4.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="5" pattern="card_5.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_5.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_5.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_5.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_5.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_5.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_5.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="6" pattern="card_6.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_6.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_6.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_6.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_6.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_6.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_6.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="7" pattern="card_7.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_7.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_7.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_7.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_7.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_7.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_7.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="8" pattern="card_8.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_8.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_8.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_8.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_8.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_8.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_8.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="9" pattern="card_9.png" back="back.png">
+		<background x="12" y="16" width="326" height="432"/>
+		<title font="Helvetica" size="24" foreground="#FFFFFF" bold="true" italic="true" x="18" y="8" width="256" height="27" align="right" valign="middle"/>
+		<school font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="true" x="18" y="37" width="256" height="17" align="right" valign="middle"/>
+		<logo x="289" y="14" width="36" height="36"/>
+		<components>
+			<positions>
+				<position id="1" x="1" y="60"/>
+				<position id="2" x="1" y="87"/>
+				<position id="3" x="1" y="114"/>
+				<position id="4" x="1" y="141"/>
+				<position id="5" x="1" y="168"/>
+			</positions>
+			<component id="1" image="dot_9.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot_9.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot_9.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot_9.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot_9.png" position="auto" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Helvetica" size="14" foreground="#FFFFFF" bold="true" italic="true" x="32" y="466" width="290" height="17" align="left" valign="middle"/>
+		<description x="30" y="62" width="306" height="407">
+			<title font="Microsoft Sans Serif" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Microsoft Sans Serif" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot_9.png" x="1" y="435" width="26" height="26" font="Helvetica" size="12" foreground="#FFFFFF" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+</cards>

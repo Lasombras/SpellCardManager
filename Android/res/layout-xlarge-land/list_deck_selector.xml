@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+listDeckSelector/main_layout" xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+    <LinearLayout android:id="@+listDeckSelector/tabLayoutRecent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">
+        <ListView android:layout_height="0dp" android:id="@+listDeckSelector/listRecentDeck" android:layout_width="fill_parent" android:layout_weight="1"  android:cacheColorHint="@android:color/transparent" android:listSelector="@drawable/list_selector_item" android:drawSelectorOnTop="true" android:background="@color/item_list_background"></ListView>
+    </LinearLayout>
+    <LinearLayout android:id="@+listDeckSelector/tabLayoutAll" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">
+        <ListView android:fastScrollEnabled="true" android:layout_height="0dp" android:id="@+listDeckSelector/listDeck" android:layout_width="fill_parent" android:layout_weight="1"  android:cacheColorHint="@android:color/transparent" android:background="@color/item_list_background" android:drawSelectorOnTop="true" android:listSelector="@drawable/list_selector_item"></ListView>
+    </LinearLayout>
+    <LinearLayout android:id="@+listDeckSelector/tabLayoutFavorite" android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">
+        <ListView android:fastScrollEnabled="true" android:layout_height="0dp" android:id="@+listDeckSelector/listFavoriteDeck" android:layout_width="fill_parent" android:layout_weight="1"  android:cacheColorHint="@android:color/transparent" android:background="@color/item_list_background" android:listSelector="@drawable/list_selector_item" android:drawSelectorOnTop="true"></ListView>
+    </LinearLayout>
+</FrameLayout>

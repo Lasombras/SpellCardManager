@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+listDeckCards/MainLayout" xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout android:layout_width="wrap_content" android:orientation="vertical" android:layout_height="wrap_content" android:id="@+listDeckCards/linearLayout1" android:layout_below="@+listDeckCards/imageHeader">
+        <EditText android:inputType="text" android:layout_width="fill_parent" android:id="@+listDeckCards/searchBoxText" android:maxLines="1" android:layout_height="wrap_content" android:background="@drawable/list_search" android:paddingLeft="15dp" android:paddingRight="15dp" android:hint="@string/searchList"></EditText>
+        <ListView android:id="@+listDeckCards/CardsList" android:layout_width="fill_parent" android:fastScrollEnabled="true" android:layout_height="fill_parent"  android:cacheColorHint="@android:color/transparent" android:background="@color/item_list_background" android:drawSelectorOnTop="true" android:listSelector="@drawable/list_selector_item"></ListView>
+    </LinearLayout>
+    <ImageView android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:id="@+listDeckCards/imageHeader" android:layout_width="fill_parent" android:background="@drawable/list_header"></ImageView>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:text="TextView" android:layout_alignParentTop="true" android:layout_height="wrap_content" android:id="@+listDeckCards/deckNameText" android:lines="1" android:gravity="center_vertical" android:paddingLeft="6dp" android:focusable="true" android:focusableInTouchMode="true" android:scrollHorizontally="true" android:layout_width="wrap_content" android:ellipsize="marquee" android:clickable="true" android:textColor="#543413" android:height="34dp" android:layout_above="@+listDeckCards/spellPlayerClassText" android:layout_alignParentLeft="true" android:layout_toLeftOf="@+listDeckCards/imageFavorite"></TextView>
+    <TextView android:id="@+listDeckCards/spellPlayerClassText" android:gravity="top|right" android:text="TextView" android:textColor="#866951" android:layout_width="fill_parent" android:textSize="14dp" android:layout_height="wrap_content" android:layout_alignBottom="@+listDeckCards/imageHeader" android:layout_alignParentLeft="true" android:paddingBottom="3dp" android:layout_toLeftOf="@+listDeckCards/imageFavorite"></TextView>
+    <ImageButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/deck_favorite" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:background="@android:color/transparent" android:layout_alignBottom="@+listDeckCards/imageHeader" android:paddingRight="10dp" android:paddingLeft="10dp" android:id="@+listDeckCards/imageFavorite" android:clickable="true"></ImageButton>
+
+</RelativeLayout>

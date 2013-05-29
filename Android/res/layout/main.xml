@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <EditText android:inputType="text" android:layout_width="fill_parent" android:id="@+id/searchBoxText" android:maxLines="1" android:layout_height="wrap_content" android:background="@drawable/list_search" android:paddingLeft="15dp" android:paddingRight="15dp" android:hint="@string/searchList"></EditText>
+    <ListView android:layout_height="wrap_content" android:id="@+main/listSpell" android:fastScrollEnabled="true" android:layout_width="fill_parent" android:alwaysDrawnWithCache="true" android:scrollingCache="true" android:cacheColorHint="@android:color/transparent" android:background="@color/item_list_background" android:drawSelectorOnTop="true" android:listSelector="@drawable/list_selector_item"></ListView>
+</LinearLayout>

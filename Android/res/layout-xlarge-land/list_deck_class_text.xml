@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+listDeckClassText/MainLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <TextView android:gravity="top" android:layout_width="fill_parent" android:lines="1" android:scrollHorizontally="true" android:textSize="33dp" android:paddingLeft="8dp" android:layout_height="wrap_content" android:textColor="#543413" android:paddingTop="3dp" android:ellipsize="marquee" android:id="@+listDeckClassText/deckTitle" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_alignRight="@+listDeckClassText/deckPlayerClass" android:text="DeckTitle" android:background="@drawable/list_item"></TextView>
+    <TextView android:layout_width="fill_parent" android:lines="1" android:scrollHorizontally="true" android:textSize="27dp" android:paddingLeft="32dp" android:layout_height="wrap_content" android:textColor="#866951" android:text="TextView" android:ellipsize="marquee" android:id="@+listDeckClassText/deckPlayerClass" android:layout_below="@+listDeckClassText/deckTitle" android:layout_alignParentLeft="true" android:background="@drawable/list_item"></TextView>
+ 
+</RelativeLayout>

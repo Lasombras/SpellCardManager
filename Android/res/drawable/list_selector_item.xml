@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"> 
+ 	<!-- the window has lost focus, disable the items -->
+    <item 
+        android:state_window_focused="false"
+        android:drawable="@android:color/transparent" />
+
+    <!-- the list items are disabled -->
+    <item 
+        android:state_enabled="false"
+        android:state_focused="true" 
+        android:state_pressed="true"
+        android:drawable="@android:color/transparent" />
+    <item 
+        android:state_enabled="false"
+        android:state_focused="true" 
+        android:drawable="@android:color/transparent" />
+    <item 
+        android:state_enabled="false"
+        android:drawable="@android:color/transparent" />
+
+
+   <!-- the list items are enabled and being pressed -->
+    <item 
+        android:state_focused="true" 
+        android:state_pressed="true"
+        android:drawable="@drawable/list_selector_pressed_transition" />
+    <item 
+        android:state_focused="false" 
+        android:state_pressed="true"
+        android:drawable="@drawable/list_selector_pressed_transition" />
+
+    <item android:drawable="@android:color/transparent"/>
+</selector>

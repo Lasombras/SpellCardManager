@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <TextView  
+  xmlns:android="http://schemas.android.com/apk/res/android"  
+      android:id="@+listSeparator/list_header_title"  
+        android:layout_width="fill_parent"  
+       android:layout_height="wrap_content"  
+       android:background="@drawable/list_sep" android:paddingBottom="4dp" android:paddingLeft="10dp" android:paddingTop="4dp" android:textAppearance="?android:attr/listSeparatorTextViewStyle" android:textSize="20dp"/>    
+
+

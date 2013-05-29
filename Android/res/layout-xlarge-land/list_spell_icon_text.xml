@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+listSpellIconText/MainLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+    <ImageView android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:id="@+listSpellIconText/spellListIcon" android:background="@drawable/empty_icon" android:layout_height="72dp" android:layout_width="72dp"/>
+    <TextView android:text="TextView" android:ellipsize="marquee" android:paddingLeft="30dp" android:id="@+listSpellIconText/spellListOriginalName" android:textColor="#866951" android:scrollHorizontally="true" android:lines="1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textSize="27dp" android:layout_alignBottom="@+listSpellIconText/spellListIcon" android:layout_toRightOf="@+listSpellIconText/spellListIcon" android:background="@drawable/list_item"></TextView>
+    <TextView android:text="SpellTitle" android:ellipsize="marquee" android:id="@+listSpellIconText/spellListTitleName" android:textColor="#543413" android:scrollHorizontally="true" android:lines="1" android:layout_width="fill_parent" android:textSize="33dp" android:gravity="top" android:layout_above="@+listSpellIconText/spellListOriginalName" android:layout_alignLeft="@+listSpellIconText/spellListOriginalName" android:layout_height="wrap_content" android:paddingLeft="6dp" android:paddingTop="3dp" android:background="@drawable/list_item"></TextView>
+ 
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selector_focus">#66642724</color>
+    <color name="selector_long_click">#99523410</color>
+    <color name="item_list_background">#ffe7e6d2</color>
+</resources>

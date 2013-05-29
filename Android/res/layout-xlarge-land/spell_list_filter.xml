@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout android:id="@+spellListFilter/levelLinearLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="vertical">
+        <TextView android:layout_height="wrap_content" android:gravity="center" android:text="TextView" android:layout_width="fill_parent" android:id="@+spellListFilter/levelFilterText" android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+    </LinearLayout>
+    <TableLayout android:layout_width="fill_parent" android:id="@+spellListFilter/tableLayout1" android:layout_height="wrap_content">
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+spellListFilter/playerClassTableRow">
+            <TextView android:layout_height="wrap_content" android:layout_gravity="center_vertical" android:id="@+spellListFilter/playerClassFilterText" android:text="@string/playerClass" android:gravity="right|center_vertical" android:layout_width="0dp" android:layout_weight="0.3" android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+            <Spinner android:layout_height="wrap_content" android:id="@+spellListFilter/playerClassSpinner" android:layout_weight="1" android:layout_width="0dp"></Spinner>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+spellListFilter/levelFilterTableRow" android:gravity="right|center_vertical|center_horizontal" android:paddingRight="45dp">
+            <CheckBox android:id="@+spellListFilter/checkBoxLevelFilter" android:layout_height="wrap_content" android:text="@string/levelSort" android:layout_width="fill_parent" android:textAppearance="?android:attr/textAppearanceLarge"></CheckBox>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+spellListFilter/schoolTableRow">
+            <TextView android:layout_height="wrap_content" android:gravity="right|center_vertical" android:layout_gravity="center_vertical" android:layout_width="0dp" android:id="@+spellListFilter/schoolFilterText" android:text="@string/school" android:layout_weight="0.3" android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+            <com.lasombras.android.scm.view.MultipleSpinner android:layout_height="wrap_content" android:layout_width="0dp" android:id="@+spellListFilter/schoolSpinner" android:layout_weight="1"></com.lasombras.android.scm.view.MultipleSpinner>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

@@ -1,0 +1,287 @@
+#Properties file for PFSC
+editor.name.0 = SpellEditor
+editor.name.1 = MagicItemEditor
+view.name.0 = Sort
+language=Langue
+exit=Quitter
+new=Nouveau
+newSpell=Nouveau Sort
+newMagicItem=Nouvel Objet Magique
+exportAndroid=Exporter pour Android
+delete=Supprimer
+save=Enregistrer
+saveAll=Enregistrer tout
+close=Fermer
+closeAll=Fermer Tout
+export=Exporter
+import=Importer
+print=Imprimer
+load=Charger
+file=Fichier
+validate=Valider
+cancel=Annuler
+add=Ajouter
+remove=Supprimer
+deck=Deck
+confirm=Confirmation
+confirmSpellDelete=Etes-vous sur de vouloir le sort selectionné ?
+confirmMagicItemDelete=Etes-vous sur de vouloir supprimer l'objet magique selectionné ?
+confirmSpellDeletes=Etes-vous sur de vouloir supprimer les sorts selectionnés ?
+confirmMagicItemDeletes=Etes-vous sur de vouloir supprimer les objets magiques selectionnés ?
+selectExportAndroidDir=Sélectionnez un répertoire pour écrire le fichier de données Android.
+error=Erreur
+canceled=Annulé
+information=Information
+informations=Informations
+informationsInfo=Veuillez saisir les informations du sort.
+informationsMagicItemInfo=Veuillez saisir les informations de l'objet magique.
+infoRestart=L'application va redémarrer.
+errorNewSpell=Erreur sur le nouveau sort :
+spellSaving=Sauvegarde du sort en cours...
+errorDataSave=Erreur de sauvegarde en base
+card=Carte
+playCard=Carte de jeu
+backgroundChoiceAdd=Double clic gauche sur la carte pour ajouter une image de fond.
+backgroundChoiceRemove=Double clic droit sur la carte pour enlever son image de fond.
+backgroundSize1=Une taille de
+backgroundSize2=est préconisée.
+addToDeck=Ajouter au Deck
+cardResume=Resumé Carte
+cardResumeInfo=Ecrivez ici un texte (résumé des régles du sort) pour remplacer le descriptif du sort sur la carte.
+edit=Edition
+
+conflictSolve=Résolution de conflit
+actionChoice=Choisir une action :
+
+
+componentNotFound=Un sort utilise une composante introuvable !
+componentCreate=Creer la composante.
+componentLink=Associer à la composante existante :
+componentIgnore=Ignorer la composante.
+
+classNotFound=Un sort utilise une classe de personnage introuvable !
+classCreate=Creer la classe de personnage.
+classLink=Associer à la classe existante :
+classIgnore=Ignorer la classe de personnage.
+
+schoolNotFound=Un sort utilise une école introuvable !
+schoolCreate=Creer l'école.
+schoolLink=Associer à l'école existante :
+schoolIgnore=Ignorer l'école.
+
+spellNotFound=Ce sort est introuvable !
+spellCreate=Creer le sort.
+spellReplace=Remplacer le sort existant :
+spellIgnore=Ne pas importer le sort.
+
+magicItemNotFound=Cet objet magique est introuvable !
+magicItemCreate=Creer l'objet magique.
+magicItemReplace=Remplacer l'objet magique existant :
+magicItemIgnore=Ne pas importer l'objet magique.
+
+sourceItemNotFound=Cette source de jeu est introuvable !
+sourceItemCreate=Creer la source.
+sourceItemReplace=Remplacer la source existant :
+sourceItemIgnore=Ne pas importer la source.
+
+spell=Sort
+magicItem=Objet Magique
+item=Objet
+icon=Icône
+component=Composante
+components=Composantes
+componentsInfo=Choix des composantes
+class=Classe
+school=Ecole
+name=Nom
+originalName=Nom Original
+originalNameInfo=Entrez ici le nom original en anglais.
+pageNumber=Numéro Page
+sourceName=Source
+descriptor=Descripteur
+descriptorInfo=Entrez ici la liste des descripteurs. (Séparés par une virgule)
+castingTime=Temps d'incantation
+material=Matériel
+materialInfo=Entrez ici le matériel nécessaire au lancement du sort.
+range=Portée
+target=Cible
+effect=Effet
+area=Zone
+duration=Durée
+savingThrow=Jet de sauvegarde
+spellResistance=Résistance à la magie
+spellLevel=Niveau du sort
+spellLevelClass=Niveau du sort par classe
+description=Description
+yes=Oui
+no=Non
+level=Niveau
+
+exportTask=Exportation
+exportTask1=Export des classes de personnage...
+exportTask2=Export des composantes...
+exportTask3=Export des écoles...
+exportTask4=Export des sources...
+exportTask5=Export des sorts...
+exportTask6=Export des objets magiques...
+exportTask7=Eciture du fichier...
+exportTask8=Export des images...
+exportTaskOk=Exportation reussite !
+exportTaskError=Erreur lors de l'exportation !
+importTask=Importation des cartes
+importTask1=Chargement des composantes
+importTask2=Chargement des classes de personnages
+importTask3=Chargement des écoles de magie
+importTask4=Chargement des sorts
+importTask5=Chargement des objets magiques
+importTask6=Chargement des sources
+importTaskSpell=Importation du sort :
+importTaskMagicItem=Importation de l'objet magique :
+importTaskCanceled=Importation annulée par l'utilisateur.
+importTaskOk=Importation reussite !
+importTaskError=Erreur lors de l'importation !
+importOptions=Options d'importation
+importInformation=Vous allez importer des mise à jours et des nouvelles cartes...\nAttention cette action peut remplacer vos modifications.
+importOptionImage=Importer et remplacer les images
+
+frontBack=Imprimer le dos des cartes
+cardTemplate=Template de carte
+cardMarge=Marge entre les cartes
+allClasses=Toutes les classes
+noneInfo=Aucune Information
+basicClasses=Classes de base
+levelInfo=Information de niveau
+printPreferenceInfo=Veuillez selectionner les préférences d'impression
+appearencePreferenceInfo=Veuillez selectionner les préférences de l'interface
+searchStart=Lancer la recherche
+search=Recherche
+librairy=Librairie
+deckLoad=Charger un deck.
+deckSave=Sauvegarder le deck.
+cardPrint=Imprimer les cartes.
+cardDrop=Enlever une carte.
+cardClear=Effacer les cartes.
+cardClass=Selectionner une classe de personnage.
+cardAll=Toutes
+tabTree=Arbre
+tabList=Liste
+printFormat=Format
+printFormatA4Landscape=A4 - Paysage
+printFormatA4Portrait=A4 - Portrait
+printListing=Impression dans une liste
+
+construction=Construction
+requirements=Pré requis
+itemType=Type
+cost=Coût
+aura=Aura
+casterLevel=Niveau de lanceur de sorts
+casterLevelShort=NLS
+slot=Position
+price=Prix
+weight=Poids
+gp=po
+groupSeparator= 
+
+#Classes
+class.barbarian=Barbare
+class.bard=Barde
+class.druid=Druide
+class.sorcerer=Ensorceleur
+class.fighter=Guerrier
+class.wizard=Magicien
+class.monk=Moine
+class.paladin=Paladin
+class.cleric=Prêtre
+class.ranger=Rôdeur
+class.rogue=Roublard
+class.alchemist=Alchimiste
+class.cavalier=Chevalier
+class.summoner=Conjurateur
+class.inquisitor=Inquisiteur
+class.oracle=Oracle
+class.witch=Sorcière
+class.anti-paladin=Anti-Paladin
+class.magus=Magus
+class.ninja=Ninja
+class.pistolero=Pistoléro
+class.samourai=Samouraï
+
+
+#Schools
+school.universal=Universel
+school.abjuration=Abjuration
+school.divination=Divination
+school.enchantment=Enchantement
+school.evocation=Evocation
+school.illusion=Illusion
+school.conjuration=Invocation
+school.necromancy=Nécromancie
+school.transmutation=Transmutation
+
+#Components
+component.verbal=Verbal
+component.verbal.short=V
+component.somatic=Gestuel/Somatique
+component.somatic.short=G
+component.material=Matérielle
+component.material.short=M
+component.focus=Focalisateur
+component.focus.short=F
+component.divinefocus=Focalisateur Divin
+component.divinefocus.short=FD
+
+#Slot
+slot.none=Aucun
+slot.armor=Armure
+slot.belts=Ceintures
+slot.body=Corps
+slot.chest=Poitrine
+slot.eyes=Yeux
+slot.feet=Pied
+slot.hands=Mains
+slot.head=Tête
+slot.headband=Bandeau
+slot.neck=Cou
+slot.ring=Anneau
+slot.shield=Bouclier
+slot.shoulders=Épaules
+slot.wrist=Poignet
+
+#Item
+item.armors=Armures et boucliers
+item.weapons=Armes
+item.potions=Potions 
+item.rings=Anneaux
+item.rods=Sceptres
+item.scrolls=Parchemins
+item.staves=Bâtons
+item.wands=Baguettes
+item.wondrous=Objets merveilleux
+
+#Source
+source.base=Manuel du joueur
+source.base.short=
+source.APG=Manuel du joueur avancé
+source.APG.short=APG
+source.ultimateMagic=L'art de la magie
+source.ultimateMagic.short=UM
+source.ultimateCombat=L'art du combat
+source.ultimateCombat.short=UC
+source.custom=Utilisateur
+source.custom.short=*
+source.internet=Internet
+source.internet.short=@
+
+#Loading
+loading.datas=Chargement des données
+loading.components=Composantes...
+loading.classes=Classes de personnages...
+loading.schools=Ecoles de magie...
+loading.slots=Position des objets...
+loading.items=Types des objets...
+loading.sources=Sources et livres...
+loading.lists=Initialisation des listes
+loading.spells=Sorts...
+loading.magicItems=Objets magiques...
+loading.filters=Filtres...

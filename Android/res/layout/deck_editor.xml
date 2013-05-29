@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TableLayout android:layout_width="fill_parent" android:id="@+deckEditor/mainLayout" android:layout_height="wrap_content">
+        <TableRow android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+deckEditor/titleTableRow">
+            <TextView android:gravity="right|center_vertical" android:layout_height="wrap_content" android:layout_gravity="center_vertical" android:layout_weight="0.3" android:layout_width="0dp" android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+deckEditor/titleDeckLabel" android:text="@string/titleDeck" android:paddingRight="2dp"></TextView>
+            <EditText android:id="@+deckEditor/titleDeckText" android:layout_height="wrap_content" android:layout_width="0dp" android:layout_weight="1">
+                <requestFocus></requestFocus>
+            </EditText>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+deckEditor/playerClassTableRow">
+            <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:layout_height="wrap_content" android:layout_gravity="center_vertical" android:id="@+deckEditor/playerClassTextLabel" android:gravity="right|center_vertical" android:layout_width="0dp" android:layout_weight="0.3" android:text="@string/playerClass" android:paddingRight="2dp"></TextView>
+            <Spinner android:layout_height="wrap_content" android:id="@+deckEditor/playerClassSpinner" android:layout_weight="1" android:layout_width="0dp"></Spinner>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

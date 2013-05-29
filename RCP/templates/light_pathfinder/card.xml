@@ -1,0 +1,253 @@
+<cards>
+	<font name="Tahoma Normal" file="tahoma.ttf"/>
+
+	<card school="1" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="2" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="3" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="4" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="5" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="6" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="7" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="8" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+	<card school="9" pattern="card.png" back="back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<school font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<components>
+			<positions>
+				<position id="1" x="0" y="60"/>
+				<position id="2" x="0" y="87"/>
+				<position id="3" x="0" y="114"/>
+				<position id="4" x="0" y="141"/>
+				<position id="5" x="0" y="168"/>
+			</positions>
+			<component id="1" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="2" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="3" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="4" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+			<component id="5" image="dot.png" position="auto" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		</components>
+		<level font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<remark image="dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</card>
+
+	<item pattern="item_card.png" back="item_back.png">
+		<title font="Tahoma Normal" size="24" foreground="#ece5b2" bold="true" italic="true" x="8" y="1" width="330" height="32" align="right" valign="middle"/>
+		<itemType font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="true" x="8" y="34" width="330" height="19" align="right" valign="middle"/>
+		<slot image="item_dot.png" x="1" y="60" width="22" height="22"/>
+		<description x="26" y="60" width="315" height="407">
+			<title font="Tahoma Normal" size="11" foreground="#000000" bold="true" italic="true"/>
+			<value font="Tahoma Normal" size="11" foreground="#000000" bold="false" italic="false"/>
+		</description>
+		<specific font="Tahoma Normal" size="14" foreground="#3f0a00" bold="true" italic="true" x="8" y="468" width="330" height="21" align="left" valign="middle"/>
+		<remark image="item_dot.png" x="1" y="408" width="22" height="22" font="Tahoma Normal" size="12" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<source image="item_dot.png" x="1" y="435" width="22" height="22" font="Tahoma Normal" size="8" foreground="#ece5b2" bold="true" italic="false" align="center" valign="middle"/>
+		<page image="item_page_dot.png" x="310" y="452" width="45" height="16" font="Tahoma Normal" size="12" foreground="#3f0a00" bold="true" italic="false" align="center" valign="middle"/>
+	</item>
+	
+</cards>

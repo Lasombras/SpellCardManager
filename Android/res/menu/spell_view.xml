@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+             <item android:id="@+id/addToDeck"
+        android:title="@string/addToDeck" 
+        android:icon="@drawable/ic_menu_add"/>
+             <item android:id="@+id/spellComment"
+        android:title="@string/spellComment" 
+        android:icon="@drawable/ic_menu_comment"/>
+    
+</menu>
