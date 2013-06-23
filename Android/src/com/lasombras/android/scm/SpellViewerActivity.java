@@ -16,8 +16,6 @@
 
 package com.lasombras.android.scm;
 
-import java.nio.charset.Charset;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -216,9 +214,11 @@ public final class SpellViewerActivity extends Activity  {
 	        if(spellContentText.getTag() != null && spellContentText.getTag().equals("xlarge"))
 	        	textSize = 16;
 	        spellContentText.setBackgroundColor(0x00000000);
-	        spellContentText.loadData(encodeText(spell.getDetail(),"Arial",textSize, Charset.defaultCharset().displayName()),
+	        spellContentText.loadData(encodeText(spell.getDetail(),"Arial",textSize, "UTF-8"), "text/html; charset=UTF-8", null);
+	        /*spellContentText.loadData(encodeText(spell.getDetail(),"Arial",textSize, Charset.defaultCharset().displayName()),
 	        		"text/html",
 	        		Charset.defaultCharset().displayName()); //UTF-8
+	        	*/
 	        spellContentText.setWebViewClient(new WebViewClient() {
 	            @Override public boolean shouldOverrideUrlLoading(WebView view, String url) {
 	 
